@@ -1,0 +1,11 @@
+﻿  Entities.cpp
+  Entity.cpp
+  GDI_drawing.cpp
+c:\users\administrator\desktop\yazılım\espassult\espassult\gdi_drawing.cpp(90): error C2664: 'float Mathematics::GetDistance3D(vec3d_f,vec3d_f)' : 1 bağımsız değişkeni 'vec4d_f' değerinden 'vec3d_f' değerine dönüştürülemez
+  c:\users\administrator\desktop\yazılım\espassult\espassult\gdi_drawing.cpp(90): note: Bu dönüştürmeyi gerçekleştirecek kullanıcı tanımlı dönüştürme işleci yok veya işleç çağrılamıyor
+c:\users\administrator\desktop\yazılım\espassult\espassult\gdi_drawing.cpp(90): error C2660: 'GDI_drawing::DrawESP': işlev 6 bağımsız değişken almıyor
+  c:\users\administrator\desktop\yazılım\espassult\espassult\gdi_drawing.cpp(40): note: 'GDI_drawing::DrawESP' bildirimine bakın
+  Main.cpp
+  math.cpp
+  Player.cpp
+  WinFunctions.cpp
